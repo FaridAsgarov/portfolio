@@ -5,6 +5,18 @@ body {
     letter-spacing: 1px;
 }
 
+.nav-link {
+	font-size: large;
+}
+
+.language_bar {
+	color: #fff;
+}
+
+.language_bar:hover {
+	color: #fff;
+}
+
 .overlay {
 	width: 100%;
 	height: 100%;
